@@ -18,6 +18,16 @@ $ mongo  // connects to db
 
 ```
 
+```terminal
+$ npm init -y
+$ npm install express -S
+$ npm install body-parser -S
+$ npm install monk -S
+$ yarn
+
+```
+
+
 ```js
 
 const express = require('express');
