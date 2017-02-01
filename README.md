@@ -25,6 +25,11 @@ $ npm install body-parser -S
 $ npm install monk -S
 $ yarn
 
+$ touch .gitignore
+$ echo "node_modules" >> .gitignore
+$ echo "Icon?" >> .gitignore
+$ echo "*/Icon?" >> .gitignore
+
 ```
 
 
